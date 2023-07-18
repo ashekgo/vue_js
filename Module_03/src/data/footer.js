@@ -1,0 +1,5 @@
+let footerSection = {
+
+}
+
+export { footerSection }
