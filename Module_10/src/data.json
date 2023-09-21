@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "body": "hatchback",
+      "price": 56789,
+      "year": 2005,
+      "image": "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "brand": "Ford",
+      "body": "sedan",
+      "price": 34999,
+      "year": 2019,
+      "image": "https://images.pexels.com/photos/1164778/pexels-photo-1164778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "brand": "Honda",
+      "body": "SUV",
+      "price": 87500,
+      "year": 2014,
+      "image": "https://images.pexels.com/photos/1805053/pexels-photo-1805053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "brand": "BMW",
+      "body": "convertible",
+      "price": 168000,
+      "year": 2011,
+      "image": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "brand": "Hyundai",
+      "body": "hatchback",
+      "price": 32000,
+      "year": 2020,
+      "image": "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes-Benz",
+      "body": "SUV",
+      "price": 105000,
+      "year": 2018,
+      "image": "https://images.pexels.com/photos/1519192/pexels-photo-1519192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "brand": "Nissan",
+      "body": "pickup",
+      "price": 42000,
+      "year": 2015,
+      "image": "https://images.pexels.com/photos/2882234/pexels-photo-2882234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "brand": "Kia",
+      "body": "sedan",
+      "price": 28000,
+      "year": 2023,
+      "image": "https://images.pexels.com/photos/2920064/pexels-photo-2920064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "brand": "Mazda",
+      "body": "hatchback",
+      "price": 40000,
+      "year": 2003,
+      "image": "https://images.pexels.com/photos/3156482/pexels-photo-3156482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 10,
+      "brand": "Volkswagen",
+      "body": "SUV",
+      "price": 72000,
+      "year": 2017,
+      "image": "https://images.pexels.com/photos/1729993/pexels-photo-1729993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 11,
+      "brand": "Audi",
+      "body": "convertible",
+      "price": 98000,
+      "year": 2016,
+      "image": "https://images.pexels.com/photos/754595/pexels-photo-754595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 12,
+      "brand": "Lexus",
+      "body": "sedan",
+      "price": 68000,
+      "year": 2019,
+      "image": "https://images.pexels.com/photos/3750175/pexels-photo-3750175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 13,
+      "brand": "Subaru",
+      "body": "hatchback",
+      "price": 32000,
+      "year": 2022,
+      "image": "https://images.pexels.com/photos/1082657/pexels-photo-1082657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 14,
+      "brand": "GMC",
+      "body": "pickup",
+      "price": 45000,
+      "year": 2013,
+      "image": "https://images.pexels.com/photos/627721/pexels-photo-627721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 15,
+      "brand": "Tesla",
+      "body": "electric",
+      "price": 80000,
+      "year": 2023,
+      "image": "https://images.pexels.com/photos/452099/pexels-photo-452099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 16,
+      "brand": "Jeep",
+      "body": "SUV",
+      "price": 54000,
+      "year": 2010,
+      "image": "https://images.pexels.com/photos/12086936/pexels-photo-12086936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 17,
+      "brand": "Ferrari",
+      "body": "convertible",
+      "price": 1200000,
+      "year": 2021,
+      "image": "https://images.pexels.com/photos/575386/pexels-photo-575386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 18,
+      "brand": "Mitsubishi",
+      "body": "sedan",
+      "price": 25000,
+      "year": 2007,
+      "image": "https://images.pexels.com/photos/9268550/pexels-photo-9268550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 19,
+      "brand": "Chrysler",
+      "body": "sedan",
+      "price": 35000,
+      "year": 2012,
+      "image": "https://images.pexels.com/photos/11532313/pexels-photo-11532313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 20,
+      "brand": "Jaguar",
+      "body": "convertible",
+      "price": 110000,
+      "year": 2008,
+      "image": "https://images.pexels.com/photos/7422837/pexels-photo-7422837.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+  
